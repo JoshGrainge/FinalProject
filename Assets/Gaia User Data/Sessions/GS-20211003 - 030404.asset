@@ -1,0 +1,572 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20211003 - 030404
+  m_EditorClassIdentifier: 
+  m_name: Session 20211003-030404
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 10/3/2021 3:04:04 AM
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 25
+  m_spawnDensity: 10
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 10/3/2021 3:04:05 AM
+    scriptableObjectAssetGUID: b9821d4602360e84db7d762b415996a8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 2048'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 10/3/2021 3:04:43 AM
+    scriptableObjectAssetGUID: 460056c1748006e438a45b9a46c5bda8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: RaiseHeight - No Masks
+    m_operationType: 4
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:15:32 AM
+    scriptableObjectAssetGUID: 8b7658352af585c4ca71675cda556455
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Texture(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:15:39 AM
+    scriptableObjectAssetGUID: e33bd96c781c8bf4ab8beeeaca7a5282
+    m_isFoldedOut: 1
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 1
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Texture(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:22:44 AM
+    scriptableObjectAssetGUID: 0b9d576776c87d1459c170b8ec350a21
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:25:49 AM
+    scriptableObjectAssetGUID: a12d0a043e38f844cbc905d36687e529
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing -, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:26:15 AM
+    scriptableObjectAssetGUID: 8d0efb3c2385f57419c29bff7c825c79
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:27:08 AM
+    scriptableObjectAssetGUID: 24d913f280976ef41af3a4f4ece0f8a9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:27:47 AM
+    scriptableObjectAssetGUID: ae1eed6b27b931649804de0877c6899f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:28:18 AM
+    scriptableObjectAssetGUID: cc17f70867eae99458936670057ac70a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:28:48 AM
+    scriptableObjectAssetGUID: e328f3524d9a4a04f9c8d86c46940a89
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:29:00 AM
+    scriptableObjectAssetGUID: bfff654ca064ed349b27e8846c682fb7
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:29:27 AM
+    scriptableObjectAssetGUID: a53aca110a992bd42b948d534c6242ad
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:30:39 AM
+    scriptableObjectAssetGUID: 8d5d0fe9aa141cc458af7a3d459dc6b5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:30:54 AM
+    scriptableObjectAssetGUID: b2bc9948b2cd4994da0ecc44341a5589
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:32:06 AM
+    scriptableObjectAssetGUID: 25d987469e288df4b97f9b676c09e670
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Rock(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:32:15 AM
+    scriptableObjectAssetGUID: ddbabec1c5611e04083e73809a763255
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Rock(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:33:19 AM
+    scriptableObjectAssetGUID: e8bc353ab53eb2349b274362b14c3044
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Rock(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:33:44 AM
+    scriptableObjectAssetGUID: 8614e7a4e3997bf4dbb6ab7e22658d6d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:34:17 AM
+    scriptableObjectAssetGUID: ae0c146d2c0da074b82c2a60a29fe572
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:34:26 AM
+    scriptableObjectAssetGUID: e088322e2b18fb54381f7d042f0cc624
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:34:42 AM
+    scriptableObjectAssetGUID: 79c86444b937cd14d9ce4b0ac1b71007
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:36:00 AM
+    scriptableObjectAssetGUID: 97bf40c7516bc6642b1ffa37c9184bbf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:36:09 AM
+    scriptableObjectAssetGUID: 54231f1ea5ba107458dfd4261274d67a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:36:18 AM
+    scriptableObjectAssetGUID: 51d42dbf2b973ca4ea945080184f48a4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:36:29 AM
+    scriptableObjectAssetGUID: abdba9848ac7e034fb6eaac60d1ce432
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:37:16 AM
+    scriptableObjectAssetGUID: cebc78663dcbae94787aca3de23c3c2f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:39:03 AM
+    scriptableObjectAssetGUID: 1ce3160514cdd084bbc3392fab4e8022
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:39:27 AM
+    scriptableObjectAssetGUID: 9440deefdbb82124aa952e64d010a168
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:40:02 AM
+    scriptableObjectAssetGUID: f81dbbd21236c70469c95aafafe32410
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 3:41:26 AM
+    scriptableObjectAssetGUID: 4a1029e04151b40439f2e6a6266e0151
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 4:32:29 AM
+    scriptableObjectAssetGUID: 6a601a10a10cc0043a3ac8a35be38236
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 4:53:43 AM
+    scriptableObjectAssetGUID: 3d3c63b274bed364c966c8f94a0422cf
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing -, AllTerrains, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 4:54:51 AM
+    scriptableObjectAssetGUID: 3370d31f3879a7e40a4adef578b5c3ac
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 4:56:34 AM
+    scriptableObjectAssetGUID: 9137357f9f820fd4f9edb420ef77beae
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 4:59:36 AM
+    scriptableObjectAssetGUID: c5466fec457dee044a63ba8ef847c006
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/3/2021 4:59:58 AM
+    scriptableObjectAssetGUID: b89cd768823c25e4dad52f93051bd0a8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 1:32:24 AM
+    scriptableObjectAssetGUID: 6c64af73bfabdbb49b4d948dfb83b7e2
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 1:33:35 AM
+    scriptableObjectAssetGUID: 46f0bfa8442bf3b498774a891a5cd45f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 1:34:15 AM
+    scriptableObjectAssetGUID: fbef4ca4c13d2e0418e6674a72746191
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 1:38:20 AM
+    scriptableObjectAssetGUID: 6a6cf75158c986a4fbf189fa4173d3b0
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 1:39:32 AM
+    scriptableObjectAssetGUID: 80538de50a21e724babbf180ee677d0a
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Details, AllTerrains, OnlyThisSpawner
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 1:41:37 AM
+    scriptableObjectAssetGUID: cedc8f1d2d7adaf419bf0722fdd90c45
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 2:33:21 AM
+    scriptableObjectAssetGUID: b60dddfd10ea8c84fbe33a51f1d0544c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 2:38:37 AM
+    scriptableObjectAssetGUID: ea8be025805908c4abbe038fb4ab11a4
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 3:06:20 AM
+    scriptableObjectAssetGUID: 0ca4821c681485843a1000ed4b7ac09d
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 3:07:55 AM
+    scriptableObjectAssetGUID: c12face1f8bc9f24592c78f462d784a6
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20211003 - 030442
+    m_operationDateTime: 10/4/2021 3:10:22 AM
+    scriptableObjectAssetGUID: 2c1cd1d2dc94626478fe4fb7fad4af9f
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: 41af33dbb7d3f00478d1aa136505da4f
+    isWorldmap: 0
+    recalculate: 1
+    min: 0
+    max: 201.19057
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20211003 - 030442_LayerGameObject_14336_0.5
+    assetPath: Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20211003
+      - 030442/Terrain_0_0-20211003 - 030442_LayerGameObject_14336_0.5
+    fullPath: D:/UnityProjects/FinalProjectSurvivalGame/Assets/Procedural Worlds/Gaia/TerrainCollisionData/Terrain_0_0-20211003
+      - 030442/Terrain_0_0-20211003 - 030442_LayerGameObject_14336_0.5
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}
